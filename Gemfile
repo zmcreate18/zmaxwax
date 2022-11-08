@@ -15,4 +15,4 @@ gem 'listen', '~> 3.7'
 gem 'html-proofer'
 gem 'rake'
 gem 'wax_tasks', '~> 1.1', '>= 1.1.5'
-
+gem 'wdm', '>= 0.1.0'
