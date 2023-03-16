@@ -4,7 +4,7 @@ label: A Tempest
 artist: Aime Cesaire
 _date: '1977'
 location: Martinique
-order: '09'
+order: '9'
 layout: caribbeanbooksexhibit_item
 collection: caribbeanbooksexhibit
 thumbnail: "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg"

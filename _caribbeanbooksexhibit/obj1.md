@@ -4,7 +4,7 @@ label: Annie John
 artist: Jamaica Kincaid
 _date: '1983'
 location: Antigua
-order: '00'
+order: '0'
 layout: caribbeanbooksexhibit_item
 collection: caribbeanbooksexhibit
 thumbnail: "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg"

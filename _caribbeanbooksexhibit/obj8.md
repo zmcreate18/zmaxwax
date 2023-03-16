@@ -4,7 +4,7 @@ label: In the Castle of My Skin
 artist: George Lamming
 _date: '1979'
 location: Barbados
-order: '07'
+order: '7'
 layout: caribbeanbooksexhibit_item
 collection: caribbeanbooksexhibit
 thumbnail: "/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg"

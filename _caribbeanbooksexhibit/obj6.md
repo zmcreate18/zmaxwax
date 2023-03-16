@@ -4,7 +4,7 @@ label: Crossing the Mangrove
 artist: Maryse Condé
 _date: '1987'
 location: Guadeloupe
-order: '05'
+order: '5'
 layout: caribbeanbooksexhibit_item
 collection: caribbeanbooksexhibit
 thumbnail: "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg"

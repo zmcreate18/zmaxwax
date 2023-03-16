@@ -4,7 +4,7 @@ label: Wide Sargasso Sea
 artist: Jean Rhys
 _date: '1966'
 location: Dominica
-order: '04'
+order: '4'
 layout: caribbeanbooksexhibit_item
 collection: caribbeanbooksexhibit
 thumbnail: "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg"

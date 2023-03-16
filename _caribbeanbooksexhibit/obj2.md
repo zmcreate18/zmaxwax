@@ -4,7 +4,7 @@ label: Breath Eyes Memory
 artist: Edwidge Danticat
 _date: '1994'
 location: Haiti
-order: '01'
+order: '1'
 layout: caribbeanbooksexhibit_item
 collection: caribbeanbooksexhibit
 thumbnail: "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg"

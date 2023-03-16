@@ -1,4 +1,4 @@
-0# ==============================================================
+# ==============================================================
 # WAX CONFIGURATION
 # ==============================================================
 # Jekyll configuration files are written in YAML format.
@@ -20,7 +20,7 @@
 
 title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://zmcreate18.github.io/'
+url:              'https://zmcreate18.github.io'
 baseurl:          '/zmaxwax'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
